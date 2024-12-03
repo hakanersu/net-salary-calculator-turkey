@@ -52,7 +52,7 @@ console.log(results);
 ## Configuration
 
 The config object allows you to customize the calculation parameters:
-
+```
 minimumWage: The minimum wage used for calculations.
 sgkTavanUcreti: The maximum gross income for SGK calculations.
 sgkPrimRate: The SGK premium rate for employees.
@@ -62,6 +62,7 @@ sgkEmployerShare: The SGK premium rate for employers.
 sgkEmployerUnemploymentShare: The unemployment insurance rate for employers.
 employerShareRate: The employer share rate.
 taxBrackets: An array of tax brackets, each with minAmount, maxAmount, and percentage.
+```
 
 
 ## Running Tests
