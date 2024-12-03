@@ -93,7 +93,7 @@ You can run `npm run test` command to run basic tests. You can find example outp
 └─────────┴───────┴─────────────┴────────────────┴────────────────────┘
 ```
 
-Here is the usable variables from the tax calculator.
+Here is the available variables from the tax calculator.
 
 ```
 month: month + 1,
