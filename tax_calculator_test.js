@@ -22,6 +22,7 @@ const config = {
 const salaries = [150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000, 150_000];
 const results = calculateMonthlyTaxes(salaries, config);
 
+console.table(results, ['month','grossIncome', 'incomeTaxToPay', 'netIncome'])
 const corrects = [
     17449.68125, 24699.68125,
     31874.68125, 31874.68125,
