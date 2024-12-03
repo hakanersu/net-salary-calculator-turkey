@@ -1,8 +1,8 @@
 {
   "name": "tax_calculator",
   "version": "0.0.1",
-  "description": "",
-  "main": "main.js",
+  "description": "Net Salary Calculator for Turkey",
+  "main": "tax_calculator.js",
   "scripts": {
     "test": "node tax_calculator_test.js"
   },
